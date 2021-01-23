@@ -70,6 +70,7 @@ function chunkUsingSlice({array, size})
 
 function chunkUsingSplice({array1, size})
 {
+    isValidArgument(array1, size);
     const result = [];
     let copied = [...array1] //ES6 destructuring
 
@@ -81,6 +82,21 @@ function chunkUsingSplice({array1, size})
     }
 
     return result;
+}
+
+function recursiveChunk(array, size)
+{
+    isValidArgument(array, size);
+
+    let firstChunk = array.slice(0, size);
+
+    if(!firstChunk.length)
+    {
+        //base case
+        return array;
+    }
+
+    return [firstChunk].concat(recursiveChunk(array.slice(size, array.length), size));
 }
 
 let array = [2, 3, 5, 6, 8, 9];
@@ -95,3 +111,7 @@ console.log(ans);
 let array1 = [2, 3, 5, 6, 8, 9, 11];
 let ans1 = chunkUsingSplice({array1, size});
 console.log(ans1);
+
+
+let ans2 = recursiveChunk(array, size);
+console.log(ans2)
