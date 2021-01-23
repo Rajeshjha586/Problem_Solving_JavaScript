@@ -1,7 +1,5 @@
-<img src="https://user-images.githubusercontent.com/70096180/105578782-9fb10700-5da8-11eb-897b-7c30ca804a6d.png" align="right"/>
 
 # Problem Solving using Javascript
-
 
 ![DSA](https://user-images.githubusercontent.com/70096180/105578739-4f39a980-5da8-11eb-9dc4-880d2a2acc34.jpeg)
 
