@@ -10,7 +10,7 @@
 
 
 
-![DSA](.github/dsa.jpeg)
+![DSA](https://user-images.githubusercontent.com/70096180/105578739-4f39a980-5da8-11eb-9dc4-880d2a2acc34.jpeg)
 
 ## Overview
 
