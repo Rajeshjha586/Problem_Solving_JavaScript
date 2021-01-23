@@ -1,13 +1,6 @@
-<img src=".github/logo.png" align="right"/>
+<img src="https://user-images.githubusercontent.com/70096180/105578782-9fb10700-5da8-11eb-897b-7c30ca804a6d.png" align="right"/>
 
 # Problem Solving using Javascript
-
-[![Build Status](https://travis-ci.org/knaxus/problem-solving-javascript.svg?branch=master)](https://travis-ci.org/knaxus/problem-solving-javascript)
-[![Coverage Status](https://coveralls.io/repos/github/knaxus/problem-solving-javascript/badge.svg?branch=master)](https://coveralls.io/github/knaxus/problem-solving-javascript?branch=master)
-![GitHub stars](https://img.shields.io/github/stars/knaxus/problem-solving-javascript)
-![GitHub contributors](https://img.shields.io/github/contributors/knaxus/problem-solving-javascript)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/knaxus/problem-solving-javascript/issues)
-
 
 
 ![DSA](https://user-images.githubusercontent.com/70096180/105578739-4f39a980-5da8-11eb-9dc4-880d2a2acc34.jpeg)
